@@ -1,0 +1,12 @@
+button {
+    font-size: 20px;
+    background: gray;
+}
+  
+.liked {
+    background-color: rgb(255, 255, 255);
+}
+  
+.not-liked {
+    background-color: grey;
+}
